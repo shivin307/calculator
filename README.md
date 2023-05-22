@@ -51,7 +51,7 @@ samples, guidance on mobile development, and a full API reference.
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
 ### License
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
+This project is licensed under the [MIT License](LICENSE.md). Feel free to use and modify the code as per your needs.
 
 ### Acknowledgements
 * The calculator icon used in the app is provided by [Apple Support](https://support.apple.com/en-vn/guide/calculator/welcome/mac "Apple Support").
