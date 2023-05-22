@@ -1,4 +1,9 @@
 ## Calculator App
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT/)
+[![Flutter Version](https://img.shields.io/badge/flutter-3.10.1-blue.svg)](https://flutter.dev/docs/development/tools/sdk/releases?tab=macos/)
+[![Dart Version](https://img.shields.io/badge/dart-3.0.1-blue.svg)](https://dart.dev/)
+[![DevTools Version](https://img.shields.io/badge/DevTools-2.23.1-blue.svg)](https://docs.flutter.dev/tools/devtools/overview/)
+
 This is a simple calculator app built using Flutter framework. The app allows users to perform basic mathematical calculations, including addition, subtraction, multiplication, and division.
 
 ### Features
@@ -9,9 +14,8 @@ This is a simple calculator app built using Flutter framework. The app allows us
 * Clear: Clear the input fields and reset the calculator.
 
 ### Screenshots
+<img src="assets/splash.png" height="515" width="250">     <img src="assets/home.png" height="515" width="250">
 
-![splash!](assets/splash.png)
-![home!](assets/home.png)
  
 ### Installation
 1. Make sure you have Flutter installed on your system. If not, you can install it from the official Flutter website: [Flutter Installation Guide](http://https://docs.flutter.dev/get-started/install "Flutter Installation Guide")
