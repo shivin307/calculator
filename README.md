@@ -14,7 +14,7 @@ This is a simple calculator app built using Flutter framework. The app allows us
 * Clear: Clear the input fields and reset the calculator.
 
 ### Screenshots
-<img src="assets/splash.png" height="515" width="250">     <img src="assets/home.png" height="515" width="250">
+<img src="assets/splash.png" height="530" width="250">     <img src="assets/home.png" height="530" width="250">
 
  
 ### Installation
